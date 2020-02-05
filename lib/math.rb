@@ -19,5 +19,5 @@ p num1.0/num2.0
 end
 
 def square_root(num)
-p num **
+p num.sqrt
 end
